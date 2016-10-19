@@ -11,7 +11,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException
 
 
-
+print("test code")
 driver = webdriver.Firefox()
 base_url = 'https://www.bomberg.ch/accounts/'
 
